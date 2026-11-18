@@ -1,0 +1,6 @@
+{
+  "name": "FixMate",
+  "description": "On-demand smart device and home appliance repair service platform connecting customers with verified technicians.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
